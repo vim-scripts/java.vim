@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=266
+
+Contains several mappings (about 30) to save typing when Java programming.  Most are short for keywords, types, etc.  (e.g. ,p ,s ,f ^Ts  -->  public static final String).  Some are more complex, like inserting a javadoc comment or expanding a constructor.
+
+The script is commented sufficiently.
+
+I haven't added anything to this for ages, but there is no limit to how useful this can be, so please feel free to add updates.
