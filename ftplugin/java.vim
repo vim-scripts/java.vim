@@ -1,4 +1,3 @@
-
 " Editing settings
 set tabstop=4 shiftwidth=4 expandtab textwidth=90
 
@@ -35,7 +34,7 @@ inoremap <buffer> :i if
 inoremap <buffer> :r return
 inoremap <buffer> :t try
 inoremap <buffer> :c catch
-inoremap <buffer> :f finally
+inoremap <buffer> :F finally
 inoremap <buffer> :T throws
 inoremap <buffer> :R throw
 
